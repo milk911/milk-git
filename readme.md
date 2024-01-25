@@ -1,1 +1,2 @@
-The weather is ugly
+REST Service with blocking API
+OAuth2
